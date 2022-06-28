@@ -12,7 +12,13 @@ install_bundle -download bundle-none-template
 
 ## Use Case
 
-If you are creating a new online bundle, then you can use this template to create your bundle repo. It includes all the required files with marked annotations for you to quickly start developing a new online bundle. Please follow the steps shown below.
+If you are creating a new generic online bundle, then you can use this template to create your bundle repo. It includes all the required files with marked annotations for you to quickly start developing a new online bundle. Please follow the steps shown below.
+
+A generic bundle does not emphasize products and may require zero or more products. PadoGrid uses the term **none** for such bundles. Some of the examples are listed below.
+
+- Bundles that include only Kubernetes and/or Docker solutions.
+- Bundles that require two or more products and none of them can be labeled as the primary product.
+- Bundles that require the user to manually install products. For example, a tutorial or training bundle that intentionally left out product requirements.
 
 ## 1. Create Repo
 
