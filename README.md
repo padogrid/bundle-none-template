@@ -1,4 +1,4 @@
-# None Bundle Template
+# Generic (none) Bundle Template
 
 This bundle serves as a template for creating a new generic onlne bundle.
 
