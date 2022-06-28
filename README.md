@@ -1,6 +1,6 @@
 # None Bundle Template
 
-This bundle serves as a template for creating a new onlne bundle.
+This bundle serves as a template for creating a new generic onlne bundle.
 
 ## Installing Bundle
 
