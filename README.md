@@ -8,8 +8,6 @@ This bundle serves as a template for creating a new generic onlne bundle.
 
 ## Installing Bundle
 
-![PadoGrid](https://github.com/padogrid/padogrid/raw/develop/images/padogrid-3d-16x16.png) [*Driven by PadoGrid*](https://github.com/padogrid)
-
 ```bash
 install_bundle -download bundle-none-template
 ```
